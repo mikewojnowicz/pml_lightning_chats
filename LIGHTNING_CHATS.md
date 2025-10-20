@@ -13,7 +13,7 @@ For Fall 2025, we meet for lightning chats Mondays 3:15-3:30pm in Barnard 352.
 + Sept 29: Jack - Intro to symbolic dynamics
 + Oct 6: Mike - Problems with block approximations to time series inference
 + Oct 13: Kunal - Intro to spatial statistics concepts(Why variograms are introduced in the literature, how to fit a emperical variogram from data)
-+ Oct 20: Jack
++ Oct 20: Jack - Spatio Temporal Covariances: Matern (inc. Bessel functions) and extensions
 + Oct 27: Mike
 + Nov 3: Kunal
 + Nov 10: Jack
