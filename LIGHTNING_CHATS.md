@@ -6,7 +6,7 @@ A lightning chat is like a short, focused talk, where the presenter overviews so
 
 ### Schedule 
 
-For Fall 2025, we meet for lightning chats Mondays 3:15-3:30pm in Barnard 352.
+For Fall 2025, we meet for lightning chats Mondays 3:15-3:30pm. We will meet in Mike's Office (Barnard 352) for September and October.  Starting November 3, we will meet in Barnard 347. 
 
 + Sept 12: Mike - Variational inference suffers under high noise
 + Sept 22: Kunal - Overview of Robust Gaussian Stochastic Process Emulation and Robust Calibration techniques ([Paper 1](https://projecteuclid.org/journals/annals-of-statistics/volume-46/issue-6A/Robust-Gaussian-stochastic-process-emulation/10.1214/17-AOS1648.pdf), [Paper 2](https://journal.r-project.org/articles/RJ-2023-085/))
