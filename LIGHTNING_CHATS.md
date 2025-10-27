@@ -14,7 +14,7 @@ For Fall 2025, we meet for lightning chats Mondays 3:15-3:30pm. We will meet in 
 + Oct 6: Mike - Problems with block approximations to time series inference
 + Oct 13: Kunal - Intro to spatial statistics concepts (Why variograms are introduced in the literature, how to fit a empirical variogram from data)
 + Oct 20: Jack - Spatio Temporal Covariances: Matern (inc. Bessel functions) and extensions
-+ Oct 27: Mike
++ Oct 27: Mike - Conditional expectation given a sigma-field
 + Nov 3: Kunal
 + Nov 10: Jack
 + Nov 17: Mike
