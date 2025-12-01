@@ -19,7 +19,7 @@ For Fall 2025, we meet for lightning chats Mondays 3:15-3:30pm. We will meet in 
 + Nov 10: Jack - Structured State Space Models - High-level review
 + Nov 17: Mike - Counting Measure and Stationary Time Series
 + Nov 24: NO MEETING (Thanksgiving)
-+ Dec 1: Kunal
++ Dec 1: Kunal - Double descent phenomenon in overparameterized models[Slides: Page 41 - 46](https://hastie.su.domains/ISLR2/Slides/Ch10_Deep_Learning.pdf); [YouTube link](https://youtu.be/qRHdQz_P_Lo?si=Tv1lDIImB5uALr8l)
 + Dec 8: Jack - Inverse Autoregressive Flows - (Arbitrary Densities for VAEs, i.e. deep variational Bayes)
 
 ### Topic Ideas
