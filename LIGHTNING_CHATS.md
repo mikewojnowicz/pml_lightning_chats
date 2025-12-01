@@ -20,7 +20,7 @@ For Fall 2025, we meet for lightning chats Mondays 3:15-3:30pm. We will meet in 
 + Nov 17: Mike - Counting Measure and Stationary Time Series
 + Nov 24: NO MEETING (Thanksgiving)
 + Dec 1: Kunal
-+ Dec 8: Jack
++ Dec 8: Jack - Inverse Autoregressive Flows - (Arbitrary Densities for VAEs, i.e. deep variational Bayes)
 
 ### Topic Ideas
 
