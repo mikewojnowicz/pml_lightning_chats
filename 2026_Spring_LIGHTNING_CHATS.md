@@ -9,7 +9,7 @@ A lightning chat is like a short, focused talk, where the presenter overviews so
 For Spring 2026, we meet for lightning chats Fridays 1:15-1:30pm. We will meet in the GSOC Conference Room (Barnard 347).
 
 + Jan 23: Kunal - [Spatiotemporal Clustering with Neyman-Scott Processes via Connections to Bayesian Nonparametric Mixture Models.](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2257896)
-+ Jan 30: Jack
++ Jan 30: Jack - [Spatiotemporal Besov Priors](https://arxiv.org/html/2306.16378v3)
 + Feb 6: Mike
 + Feb 13: Owen
 + Feb 20: Kunal
