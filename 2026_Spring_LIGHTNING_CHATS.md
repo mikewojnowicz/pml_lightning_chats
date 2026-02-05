@@ -14,22 +14,20 @@ A lightning chat is a short (15 minute), focused talk, where the presenter overv
 
 ### Schedule 
 
-For Spring 2026, we meet for lightning chats Fridays. Typically we meet 1:15-1:45pm. On the 2nd Friday of every month, the typical time conflicts with the Smart Fires AI/ML meeting, so on those days we meet 2-2:30pm.   
-
-We will meet in the GSOC Conference Room (Barnard 347).
+For Spring 2026, we meet for lightning chats Fridays 1:15-1:45pm  tin the GSOC Conference Room (Barnard 347).
 
 + Jan 23: Kunal - [Spatiotemporal Clustering with Neyman-Scott Processes via Connections to Bayesian Nonparametric Mixture Models.](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2257896)
 + Jan 30: Jack - [Spatiotemporal Besov Priors](https://arxiv.org/html/2306.16378v3)
 + Feb 6: Mike
-+ Feb 13 (**2-2:30pm**): Owen
++ Feb 13:  Owen
 + Feb 20: Kunal
 + Feb 27: Jack
 + Mar 6: Mike
-+ Mar 13 (**2-2:30pm**): Owen
++ Mar 13: Owen
 + Mar 20: Spring Break
 + Mar 27: Kunal
 + Apr 3: Jack
-+ Apr 10 (**2-2:30pm**): Owen
++ Apr 10: Owen
 + Apr 17: Kunal
 + Apr 24: Jack
 
