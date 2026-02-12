@@ -45,8 +45,10 @@ These are just ideas that have come up ... feel free to choose anything else you
 + Predictive stacking. [Reference.](https://projecteuclid.org/journals/bayesian-analysis/volume-13/issue-3/Using-Stacking-to-Average-Bayesian-Predictive-Distributions-with-Discussion/10.1214/17-BA1091.pdf)
 + Generalized conjugate multivariate models: A tool for conjugate modeling of hierarchical spatial models. [Reference.](https://www.tandfonline.com/doi/pdf/10.1080/10618600.2024.2365728) 
 
-##### Diffusion modeling
+##### Diffusion modeling vs. normalizing flows
 +  Normalizing flows are limited by their restriction of transformations to be bijections.  [Reference.](https://arxiv.org/abs/2002.06707)
++  Normalizing flows for time series: [Reference.](https://arxiv.org/html/2601.07013v1)
++  Diffusion models for discrete data.
 
 ##### Statistical modeling
 + Disintegration of measure.  [Reference.](https://onlinelibrary.wiley.com/doi/pdf/10.1111/1467-9574.00056)
