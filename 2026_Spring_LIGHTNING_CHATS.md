@@ -49,5 +49,7 @@ These are just ideas that have come up ... feel free to choose anything else you
 +  Normalizing flows are limited by their restriction of transformations to be bijections.  [Reference.](https://arxiv.org/abs/2002.06707)
 
 ##### Statistical modeling
++ Disintegration of measure.  [Reference.](https://onlinelibrary.wiley.com/doi/pdf/10.1111/1467-9574.00056)
 + Under what conditions are state space models stationary vs. non-stationary?
 + In what sense are the natural parameters of an exponential family ``natural"?  (The paper _Information Geometry of Variational Bayes_  might be interesting for this purpose, as well as for many others.) [Reference](https://arxiv.org/pdf/2509.15641)
+
