@@ -20,7 +20,7 @@ For Spring 2026, we meet for lightning chats Fridays 1:15-1:45pm  tin the GSOC C
 + Jan 30: Jack - [Spatiotemporal Besov Priors](https://arxiv.org/html/2306.16378v3)
 + Feb 6: Mike - Central Limit Theorem via Characteristic Functions
 + Feb 13:  Owen - Discussion on Markov chain Monte Carlo
-+ Feb 20: Kunal
++ Feb 20: Kunal - Stein's method[Wikipedia link](https://en.wikipedia.org/wiki/Stein%27s_method)
 + Feb 27: Jack
 + Mar 6: Mike
 + Mar 13: Owen
