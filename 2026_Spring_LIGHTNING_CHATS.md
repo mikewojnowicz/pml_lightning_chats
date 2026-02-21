@@ -50,6 +50,7 @@ These are just ideas that have come up ... feel free to choose anything else you
 +  Normalizing flows for time series: [Reference.](https://arxiv.org/html/2601.07013v1)
 +  Diffusion models for discrete data.
 +  Old-school score models. [Reference.](https://www.jmlr.org/papers/volume6/hyvarinen05a/hyvarinen05a.pdf)
++  Denoising diffusion bridge models. [Reference.](https://arxiv.org/pdf/2309.16948)
 
 ##### Statistical modeling
 + Disintegration of measure.  [Reference.](https://onlinelibrary.wiley.com/doi/pdf/10.1111/1467-9574.00056)
