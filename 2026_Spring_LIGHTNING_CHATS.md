@@ -21,7 +21,7 @@ For Spring 2026, we meet for lightning chats Fridays 1:15-1:45pm  tin the GSOC C
 + Feb 6: Mike - Central Limit Theorem via Characteristic Functions
 + Feb 13:  Owen - Discussion on Markov chain Monte Carlo
 + Feb 20: Kunal - Stein's method: [Wikipedia link](https://en.wikipedia.org/wiki/Stein%27s_method)
-+ Feb 27: Jack
++ Feb 27: Jack - Stochastic Normalizing Flows
 + Mar 6: Mike
 + Mar 13: Owen
 + Mar 20: Spring Break
