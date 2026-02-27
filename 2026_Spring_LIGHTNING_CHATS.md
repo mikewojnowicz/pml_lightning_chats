@@ -2,14 +2,6 @@
 
 ### Goal
 
-A lightning chat is like a short, focused talk, where the presenter overviews some technical concept or paper in the field of probabilistic modeling and/or machine learning.
-
-### Schedule 
-
-# Lightning Chats
-
-### Goal
-
 A lightning chat is a short (15 minute), focused talk, where the presenter overviews some technical concept or paper in the field of probabilistic modeling and/or machine learning.
 
 ### Schedule 
