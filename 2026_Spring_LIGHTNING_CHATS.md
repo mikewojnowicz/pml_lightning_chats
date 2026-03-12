@@ -17,7 +17,7 @@ For Spring 2026, we meet for lightning chats Fridays 1:15-1:45pm  tin the GSOC C
 + Mar 6: Mike - Crash course on SDEs
 + Mar 13: Owen
 + Mar 20: Spring Break
-+ Mar 27: Kunal
++ Mar 27 (Barnard 323): Kunal
 + Apr 3: Jack
 + Apr 10: Owen
 + Apr 17: Kunal
