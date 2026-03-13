@@ -15,7 +15,7 @@ For Spring 2026, we meet for lightning chats Fridays 1:15-1:45pm  tin the GSOC C
 + Feb 20: Kunal - Stein's method: [Wikipedia link](https://en.wikipedia.org/wiki/Stein%27s_method)
 + Feb 27: Jack - Stochastic Normalizing Flows
 + Mar 6: Mike - Crash course on SDEs
-+ Mar 13: Owen
++ Mar 13: Owen - Motivation for reparameterization in VAEs
 + Mar 20: Spring Break
 + Mar 27 (Barnard 323): Kunal
 + Apr 3: Jack
