@@ -18,11 +18,10 @@ For Spring 2026, we meet for lightning chats Fridays 1:15-1:45pm  tin the GSOC C
 + Mar 13: Owen  - Motivation for reparameterization in VAEs
 + Mar 20: Spring Break
 + Mar 27: Kunal
-+ Apr 3: Jack
++ Apr 3:  University Day
 + Apr 10: Owen
-+ Apr 17: Kunal
-+ Apr 24: Jack
-
++ Apr 17: Jack
++ Apr 24: Mike
 
 
 ### Topic Ideas
