@@ -17,7 +17,8 @@ For Spring 2026, we meet for lightning chats Fridays 1:15-1:45pm  tin the GSOC C
 + Mar 6: Mike - Crash course on SDEs
 + Mar 13: Owen  - Motivation for reparameterization in VAEs
 + Mar 20: Spring Break
-+ Mar 27: Kunal
++ Mar 27: Kunal - Stein’s Method, Learning, and Inference - Lecture by Lester Mackey
+[Link to slides](https://lmackey.github.io/papers/gsd_ksd-slides.pdf); [Link to youtube lecture video](https://www.youtube.com/watch?v=XnaHuB9SGms)
 + Apr 3:  University Day
 + Apr 10: Owen
 + Apr 17: Jack
