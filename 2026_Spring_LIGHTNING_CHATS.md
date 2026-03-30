@@ -53,8 +53,10 @@ These are just ideas that have come up ... feel free to choose anything else you
 
 ###### Normalizing flows
 
-+  Normalizing flows are limited by their restriction of transformations to be bijections.  [Reference.](https://arxiv.org/abs/2002.06707)
++  Normalizing flows are limited by their restriction of transformations to be bijections.  [Reference.](https://arxiv.org/abs/2002.06707)  
+	+  In particular, they restrict the topology of the learned probability densities. [Reference.](https://proceedings.neurips.cc/paper_files/paper/2020/file/1aa3d9c6ce672447e1e5d0f1b5207e85-Paper.pdf) 
 +  Normalizing flows for time series: [Reference.](https://arxiv.org/html/2601.07013v1)
+
 
 ###### Prediction-centered Bayesian modeling
 
