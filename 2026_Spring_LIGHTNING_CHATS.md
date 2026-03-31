@@ -21,7 +21,7 @@ For Spring 2026, we meet for lightning chats Fridays 1:15-1:45pm  tin the GSOC C
 [Link to slides](https://lmackey.github.io/papers/gsd_ksd-slides.pdf); [Link to youtube lecture video](https://www.youtube.com/watch?v=XnaHuB9SGms)
 + Apr 3:  University Day
 + Apr 10: Owen
-+ Apr 17: Jack
++ Apr 17 (Cobleigh 330): Jack
 + Apr 24: Mike
 
 
