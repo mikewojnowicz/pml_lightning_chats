@@ -20,7 +20,8 @@ For Spring 2026, we meet for lightning chats Fridays 1:15-1:45pm  tin the GSOC C
 + Mar 27: Kunal - Stein’s Method, Learning, and Inference - Lecture by Lester Mackey
 [Link to slides](https://lmackey.github.io/papers/gsd_ksd-slides.pdf); [Link to youtube lecture video](https://www.youtube.com/watch?v=XnaHuB9SGms)
 + Apr 3:  University Day
-+ Apr 10: Owen
++ Apr 10: Owen: Elucidating the Design Space of Diffusion-Based
+Generative Models	[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/a98846e9d9cc01cfb87eb694d946ce6b-Paper-Conference.pdf); [blog](https://developer.nvidia.com/blog/generative-ai-research-spotlight-demystifying-diffusion-based-models/)
 + Apr 17 (Cobleigh 330): Jack
 + Apr 24: Mike
 
