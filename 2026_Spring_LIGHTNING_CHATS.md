@@ -22,7 +22,7 @@ For Spring 2026, we meet for lightning chats Fridays 1:15-1:45pm  tin the GSOC C
 + Apr 3:  University Day
 + Apr 10: Owen: Elucidating the Design Space of Diffusion-Based
 Generative Models	[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/a98846e9d9cc01cfb87eb694d946ce6b-Paper-Conference.pdf); [blog](https://developer.nvidia.com/blog/generative-ai-research-spotlight-demystifying-diffusion-based-models/)
-+ Apr 17 (Cobleigh 330): Jack
++ Apr 17 (Cobleigh 330): Jack: Doob's h-transform
 + Apr 24: Mike
 
 
