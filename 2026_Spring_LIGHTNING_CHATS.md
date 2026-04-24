@@ -45,7 +45,8 @@ These are just ideas that have come up ... feel free to choose anything else you
 
 
 ###### Diffusion Models
-+ Generative Uncertainty for Diffusion Models -- Note: one co-author is my friend Eric Nalisnick, CS prof at Johns Hopkins, with whom we could potentially collaborate. [Reference.](https://arxiv.org/pdf/2502.20946)
++ Diffusion models for audio, video, or graphs.
++ Generative Uncertainty for Diffusion Models. (One co-author is Eric Nalisnick.) [Reference.](https://arxiv.org/pdf/2502.20946)
 +  Diffusion models for discrete data.
 +  Old-school score models. [Reference.](https://www.jmlr.org/papers/volume6/hyvarinen05a/hyvarinen05a.pdf)
 +  Denoising diffusion bridge models. [Reference.](https://arxiv.org/pdf/2309.16948)
