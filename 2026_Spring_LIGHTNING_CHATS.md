@@ -45,14 +45,16 @@ These are just ideas that have come up ... feel free to choose anything else you
 
 
 ###### Diffusion Models
++  Denoising diffusion bridge models. [Reference.](https://arxiv.org/pdf/2309.16948)
 + Diffusion models for audio, video, or graphs.
 + Generative Uncertainty for Diffusion Models. (One co-author is Eric Nalisnick.) [Reference.](https://arxiv.org/pdf/2502.20946)
 +  Diffusion models for discrete data.
 +  Old-school score models. [Reference.](https://www.jmlr.org/papers/volume6/hyvarinen05a/hyvarinen05a.pdf)
-+  Denoising diffusion bridge models. [Reference.](https://arxiv.org/pdf/2309.16948)
+
 
 ###### Transformers
-+  Transformers can do Bayesian inference [Reference.](https://arxiv.org/abs/2112.10510)
++  Transformers can do Bayesian inference (ICLR, 2022). [Reference.](https://arxiv.org/abs/2112.10510)
++  Continuum Attention for Neural Operators (JMLR, 2025). [Reference.](https://www.jmlr.org/papers/volume26/24-0879/24-0879.pdf)
 
 ###### Normalizing flows
 
