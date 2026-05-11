@@ -48,8 +48,8 @@ These are just ideas that have come up ... feel free to choose anything else you
 +  Denoising diffusion bridge models. [Reference.](https://arxiv.org/pdf/2309.16948)
 + Diffusion models for audio, video, or graphs.
 + Generative Uncertainty for Diffusion Models. (One co-author is Eric Nalisnick.) [Reference.](https://arxiv.org/pdf/2502.20946)
-+  Diffusion models for discrete data.
-+  Old-school score models. [Reference.](https://www.jmlr.org/papers/volume6/hyvarinen05a/hyvarinen05a.pdf)
++  Diffusion models for discrete data (e.g. [D3PM](https://proceedings.neurips.cc/paper/2021/file/958c530554f78bcd8e97125b70e6973d-Paper.pdf)).
++  Planning with diffusion. [Reference.] (https://arxiv.org/pdf/2205.09991)
 
 
 ###### Transformers
