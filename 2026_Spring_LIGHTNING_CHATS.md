@@ -54,7 +54,10 @@ These are just ideas that have come up ... feel free to choose anything else you
 
 ###### Transformers
 +  Transformers can do Bayesian inference (ICLR, 2022). [Reference.](https://arxiv.org/abs/2112.10510)
++  [Linear attention](https://proceedings.mlr.press/v119/katharopoulos20a/katharopoulos20a.pdf) uses a recurrence which can be viewed as a degenerate linear SSM. 
++  [Transformers are SSMs](https://arxiv.org/abs/2405.21060). 
 +  Continuum Attention for Neural Operators (JMLR, 2025). [Reference.](https://www.jmlr.org/papers/volume26/24-0879/24-0879.pdf)
+
 
 ###### Normalizing flows
 
