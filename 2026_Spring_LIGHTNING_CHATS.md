@@ -59,6 +59,9 @@ These are just ideas that have come up ... feel free to choose anything else you
 +  Continuum Attention for Neural Operators (JMLR, 2025). [Reference.](https://www.jmlr.org/papers/volume26/24-0879/24-0879.pdf)
 
 
+###### Autoregressive Gaussian Processes
++ Sampling via measure transport (2016). [Reference.](https://arxiv.org/pdf/1602.05023)  This is the core technical innovation behind Katzfuss' autoregressive Gaussian Processes (ARGP's), as used in his modeling of non-Gaussian spatiotemporal fields
+
 ###### Normalizing flows
 
 +  Normalizing flows are limited by their restriction of transformations to be bijections.  [Reference.](https://arxiv.org/abs/2002.06707)  
